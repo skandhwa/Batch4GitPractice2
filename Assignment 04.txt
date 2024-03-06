@@ -1,0 +1,23 @@
+1> WAP in Java to take ip as array and right rotate the elements 3 times
+2>WAP in Java to take an array and reverse all the elements of array
+3>WAP in Java to find the Sum of all even elements in array
+4>WAP in Java to remove duplicate elements from array
+5>WAP in Java to find product of two 3*3 matrix
+6> To find the total number of vowels and consonant in string
+7> WAP to find the sum of all integer elements from string 
+8>Check that whether one string is a rotation of another string
+9>Find the duplicate words from a string
+10>Reverse a string word by word 
+
+
+
+   abcDEF@1234cfghi   
+
+Remove all white spaces
+Then convert this to upper case
+then split the string on basis of @
+Then from 0th index , convert that to string again
+
+check in this string a is present or not if present find the index of a
+then convert this string to lowercase and reverse this string(without using direct method)
+and then check whether palindrome or not
