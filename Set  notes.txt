@@ -1,0 +1,34 @@
+Set 
+
+It is such kind of collection framework
+
+1>It will allow only unique element to be stored inside set
+2>Elements will be stored in any random order in a set
+3>Only one null value to be stored inside a set 
+
+
+Three types
+
+1>HashSet 
+
+Internally it will use hash table for implementation 
+It will not follow any ordering
+It will not allow any duplicate value to be stored
+It will allow only one null value to be stored 
+
+2>Linked Hash Set
+
+Internally will use doubly linked list for implementation 
+It will follow a specific ordering 
+It will not allow any duplicate value to be stored
+It will allow only one null value to be stored 
+
+3>TreeSet
+Internally it will use Binary Tree
+Elements will be stored in an ascending order
+It will not allow any duplicate value to be stored
+It will allow only one null value to be stored 
+
+
+
+
