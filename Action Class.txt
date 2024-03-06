@@ -1,0 +1,20 @@
+Action Class
+Wait 
+Xpath Axes
+Dynamic Web Table
+BrokenLinks and Third party tools in selenium,Robot class
+
+
+org.openqa.selenium.interactions.Actions
+
+
+build and perform are two methods are always needed while using action class 
+
+
+
+<a href="/two-wheelers-store?fm=neo%2Fmerchandising&amp;iid=M_b62fd019-bdd8-4ed8-a7d3-4eec42ce1028_1_372UD5BXDFYS_MC.SCJPZ04TFJJM&amp;otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Two%2BWheelers~Petrol%2BVehicles_SCJPZ04TFJJM&amp;otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L1_view-all&amp;cid=SCJPZ04TFJJM" class="_1BJVlg _11MZbx">Petrol Vehicles</a>
+
+
+mngr551332
+
+jEsyvUv
