@@ -1,0 +1,49 @@
+1>Check JAVA_HOME is installed correctly
+
+and Path settings are correct
+
+2>Go to this path 
+
+https://maven.apache.org/download.cgi and download maven
+
+apache-maven-3.9.2-bin.zip
+
+
+3>Put the downloaded version in C -->Program files
+
+4>Update the path in 
+
+C:\Program Files\apache-maven-3.9.2\bin---MAVEN_HOME
+
+
+Put the path as below
+
+C:\Program Files\apache-maven-3.9.2\bin
+
+5>Install Plugins of Maven 
+
+Maven Integration plugin
+Version3.22
+
+Pipeline Maven Integration Plugin
+Version1298.v43b_82f220a_e9
+
+
+6>git init
+
+git clone "path"
+
+git add .
+
+git commit -m "commit message"
+
+git push upstream <branch>
+
+
+
+
+
+
+
+
+
