@@ -1,0 +1,15 @@
+JavaScriptExecutor
+
+executeScript
+executeAsyncScript
+
+
+scrolldown webpage
+Pass text in textbox
+click a button
+generate Alert 
+refresh a browser 
+
+WebDriver driver=new CHromeDriver();
+JavaScriptExecutor js=(JavaScriptExecutor)driver;
+js.executescript("script","arguments");
