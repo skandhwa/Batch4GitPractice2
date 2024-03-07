@@ -1,0 +1,61 @@
+WebElement Commands 
+
+1> Send Keys 
+
+send keys are used in order to send some value in the text box/text area.
+
+
+2>clear 
+
+clear is used in order to remove or clear the value from a textbox/textarea.
+
+3>click
+It is used to click on to a radio button/checkbox/ any operation where click is required .
+
+4>isDisplayed
+Return true if element is present in DOM and is visible
+Return false if element propert is set to hidden
+return no such element found exception if wrong locator is given 
+
+5>is Enabled 
+Return true if element is enabled
+Return false otherwise 
+
+6> is Selected 
+Will return true if checkbox is already selected
+Will return false otherwise 
+
+7>getTagName
+
+input
+a
+select
+span
+button
+
+
+
+<input type="text" name="vfb-5" id="vfb-5" value="" class="vfb-text  vfb-medium  required  ">
+
+
+//input[@id='vfb-5']
+
+8>getAttribute 
+
+9>get Text
+
+10>getSize()
+This is used to fetch the height and width of the web element in a webpage 
+
+11>getLocation 
+
+
+
+
+
+
+
+
+
+
+
