@@ -2,6 +2,7 @@ package Utilities;
 
 import java.io.File;
 import java.io.IOException;
+import java.time.Duration;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.JavascriptExecutor;
@@ -102,6 +103,11 @@ public class BaseClass {
 		
 	}
 	
+	
+	public static void AddImplicitWait()
+	{
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+	}
 	
 	
 	
