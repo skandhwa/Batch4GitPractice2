@@ -90,7 +90,7 @@ public class BaseClass {
 	
 	public static void AddHarcodedwait() throws InterruptedException
 	{
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 	}
 	
 	
